@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonpepper234&hide_title=false&hide_border=true&layout=compact&theme=transparent" alt="Mainly used languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangguangyii&hide_title=false&hide_border=true&layout=compact&theme=transparent" alt="Mainly used languages">
 
 <ul>
   <li><b style="color: blue;">🔭</b> Unraveling cosmos secrets.</li>
