@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=F7AF85&center=true&vCenter=true&random=false&width=1000&height=60&lines=I+HATE+FORTRAN;I+LOVE+FORTRAN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=10&color=F7AF85&center=true&vCenter=true&random=false&width=1000&height=60&lines=I+HATE+FORTRAN;I+LOVE+FORTRAN)](https://git.io/typing-svg)
 
 </div>
 
