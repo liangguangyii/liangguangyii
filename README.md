@@ -9,12 +9,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangguangyii&hide_title=false&hide_border=true&layout=compact&theme=transparent" alt="Mainly used languages">
 
 <ul>
-  <li><b style="color: blue;">🔭</b> Unraveling cosmos secrets.</li>
-  <li><b style="color: orange;">🌱</b> Living in anime tales.</li>
-  <li><b style="color: green;">📫</b> Battling bugs, crafting code.</li>
-  <li><b style="color: red;">😄</b> Embracing Python's Zen.</li>
-  <li><b style="color: purple;">⚡</b> Brewing thoughts over tea.</li>
-  <li><b style="color: darkcyan;">💬</b> Exploring digital frontiers.</li>
-  <li><b style="color: darkmagenta;">✨</b> Juggling work and fandom.</li>
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
+  Fortran I Love you :heart_eyes: Fortran I hate you :rage: Fortran I Love you :heart_eyes: Fortran I hate you :rage:
 </ul>
 
